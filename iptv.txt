@@ -1,0 +1,85 @@
+央视定制,#genre#
+CCTV-1 综合,http://xyt.186738613.xyz/lngd.php?id=488&Cf.m3u8
+CCTV-1 综合,http://hy.baojihzjc.com:9001/rtp/239.112.205.59:5140
+CCTV-1 综合,http://43.141.130.51/dongfang5g-mobile-v51-live.bestvcdn.com.cn/SB/live/program/live/cctv1hd8m/8000000/mnf.m3u8
+CCTV-2 财经,http://xyt.186738613.xyz/lngd.php?id=061&Cf.m3u8
+CCTV-2 财经,http://gslbservzqhsw.itv.cmvideo.cn/1000000001000023315/1.m3u8?channel-id=ystenlive&Contentid=1000000001000023315&livemode=1&stbId=3
+CCTV-3 综艺,http://xyt.186738613.xyz/lngd.php?id=062&Cf.m3u8
+CCTV-3 综艺,http://gslbservzqhsw.itv.cmvideo.cn/1000000005000265003/1.m3u8?channel-id=ystenlive&Contentid=1000000005000265003&livemode=1&stbId=3
+CCTV-4 中文国际,http://xyt.186738613.xyz/lngd.php?id=063&Cf.m3u8
+CCTV-4 中文国际,https://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL1.smil/playlist.m3u8
+CCTV-5 体育,http://116.162.6.192/61.v.smtcdns.net/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225489/index.m3u8
+CCTV-5 体育,http://219.145.19.27:5554/rtp/239.112.205.222:5140
+CCTV-5+ 体育赛事,http://116.162.6.192/61.v.smtcdns.net/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225494/index.m3u8
+CCTV-5+ 体育赛事,http://43.141.130.51/dongfang5g-mobile-v51-live.bestvcdn.com.cn/SB/live/program/live/cctv5phd8m/8000000/mnf.m3u8
+CCTV-6 电影,http://xyt.186738613.xyz/lngd.php?id=065&Cf.m3u8
+CCTV-6 电影,http://116.162.6.191/1301-txt.otvstream.otvcloud.com/otv/skcc/live/channel41141/index.m3u8
+CCTV-7 国防军事,http://xyt.186738613.xyz/lngd.php?id=127&Cf.m3u8
+CCTV-7 国防军事,http://116.162.6.192/61.v.smtcdns.net/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225496/index.m3u8
+CCTV-8 电视剧,http://116.162.6.192/61.v.smtcdns.net/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225492/index.m3u8
+CCTV-8 电视剧,http://xyt.186738613.xyz/lngd.php?id=066&Cf.m3u8
+CCTV-9 纪录,http://116.162.6.192/61.v.smtcdns.net/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225497/index.m3u8
+CCTV-9 纪录,http://110.7.130.15:4022/udp/239.125.2.62:4120
+CCTV-10 科教,http://116.162.6.192/61.v.smtcdns.net/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225606/index.m3u8
+CCTV-10 科教,http://xyt.186738613.xyz/lngd.php?id=129&Cf.m3u8
+CCTV-11 戏曲,http://116.162.6.192/61.v.smtcdns.net/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225501/index.m3u8
+CCTV-11 戏曲,http://xyt.186738613.xyz/lngd.php?id=130&Cf.m3u8
+CCTV-12 社会与法,http://116.162.6.192/61.v.smtcdns.net/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225605/index.m3u8
+CCTV-12 社会与法,http://xyt.186738613.xyz/lngd.php?id=131&Cf.m3u8
+CCTV-13 新闻,http://116.162.6.192/61.v.smtcdns.net/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225510/index.m3u8
+CCTV-13 新闻,http://222.83.135.190:8181/tsfile/live/1024_1.m3u8
+CCTV-14 少儿,http://116.162.6.192/61.v.smtcdns.net/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225513/index.m3u8
+CCTV-14 少儿,http://43.132.64.50/outlivecloud-cdn.ysp.cctv.cn/ysp/2024079103.m3u8
+CCTV-15 音乐,http://116.162.6.192/61.v.smtcdns.net/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225515/index.m3u8
+CCTV-15 音乐,http://xyt.186738613.xyz/lngd.php?id=133&Cf.m3u8
+CCTV-16 奥林匹克,http://116.162.6.192/61.v.smtcdns.net/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221226095/index.m3u8
+CCTV-16 奥林匹克,http://116.162.6.192/61.v.smtcdns.net/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221226095/index.m3u8
+CCTV-17 农业农村,http://116.162.6.192/61.v.smtcdns.net/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225608/index.m3u8
+CCTV-17 农业农村,http://xyt.186738613.xyz/lngd.php?id=204&Cf.m3u8
+CCTV-4K 超高清,http://27.222.3.214/liveali-tp4k.cctv.cn/live/4K10M.stream/playlist.m3u8
+CCTV-8K 超高清,https://tv.cry33.com/ys4k.php?id=8k
+CGTN英语,http://live.cgtn.com/1000/prog_index.m3u8
+CGTN记录,https://news.cgtn.com/resource/live/document/cgtn-doc.m3u8
+CCTV-1 综合,https://pi.0472.org/live/cctv1.m3u8?token=162210
+CCTV-2 财经,https://pi.0472.org/live/cctv2.m3u8?token=162210
+CCTV-3 综艺,https://pi.0472.org/live/cctv3.m3u8?token=162210
+CCTV-4 国际,https://pi.0472.org/live/cctv4.m3u8?token=162210
+CCTV-5 体育,https://pi.0472.org/live/cctv5.m3u8?token=162210
+CCTV-5+ 体育赛事,https://pi.0472.org/live/cctv5p.m3u8?token=162210
+CCTV-6 电影,https://pi.0472.org/live/cctv6.m3u8?token=162210
+CCTV-7 国防军事,https://pi.0472.org/live/cctv7.m3u8?token=162210
+CCTV-8 电视剧,https://pi.0472.org/live/cctv8.m3u8?token=162210
+CCTV-9 记录,https://pi.0472.org/live/cctv9.m3u8?token=162210
+CCTV-10 科教,https://pi.0472.org/live/cctv10.m3u8?token=162210
+CCTV-11 戏曲,https://pi.0472.org/live/cctv11.m3u8?token=162210
+CCTV-12 社会与法,https://pi.0472.org/live/cctv12.m3u8?token=162210
+CCTV-13 新闻,https://pi.0472.org/live/cctv13.m3u8?token=162210
+CCTV-14 少儿,https://pi.0472.org/live/cctv14.m3u8?token=162210
+CCTV-15 音乐,https://pi.0472.org/live/cctv15.m3u8?token=162210
+CCTV-16 奥林匹克,https://pi.0472.org/live/cctv16.m3u8?token=162210
+CCTV-16 奥林匹克4K,https://pi.0472.org/live/cctv16-4k.m3u8?token=162210
+CCTV-17 农业农村,https://pi.0472.org/live/cctv17.m3u8?token=162210
+CCTV-4K 超高清,https://pi.0472.org/live/cctv4k.m3u8?token=162210
+CCTV-8K 超高清,https://pi.0472.org/live/cctv8k.m3u8?token=162210
+CCTV兵器科技,https://pi.0472.org/live/bqkj.m3u8?token=162210
+CCTV第一剧场,https://pi.0472.org/live/dyjc.m3u8?token=162210
+CCTV怀旧剧场,https://pi.0472.org/live/hjjc.m3u8?token=162210
+CCTV风云剧场,https://pi.0472.org/live/fyjc.m3u8?token=162210
+CCTV风云音乐,https://pi.0472.org/live/fyyy.m3u8?token=162210
+CCTV风云足球,https://pi.0472.org/live/fyzq.m3u8?token=162210
+CCTV电视指南,https://pi.0472.org/live/dszn.m3u8?token=162210
+CCTV女性时尚,https://pi.0472.org/live/nxss.m3u8?token=162210
+CCTV央视文化精品,https://pi.0472.org/live/whjp.m3u8?token=162210
+CCTV世界地理,https://pi.0472.org/live/sjdl.m3u8?token=162210
+CCTV高尔夫网球,https://pi.0472.org/live/gefwq.m3u8?token=162210
+CCTV央视台球,https://pi.0472.org/live/ystq.m3u8?token=162210
+CCTV卫生健康,https://pi.0472.org/live/wsjk.m3u8?token=162210
+CGTN英语,https://pi.0472.org/live/cgtn.m3u8?token=162210
+CGTN纪录,https://pi.0472.org/live/cgtnjl.m3u8?token=162210
+CGTN西语,https://pi.0472.org/live/cgtne.m3u8?token=162210
+CGTN法语,https://pi.0472.org/live/cgtnf.m3u8?token=162210
+CGTN阿语,https://pi.0472.org/live/cgtna.m3u8?token=162210
+CGTN俄语,https://pi.0472.org/live/cgtnr.m3u8?token=162210
+卫视,#genre#
+凤凰中文,http://play-flive.ifeng.com/live/06OLEGEGM4G.m3u8
+凤凰资讯,http://play-flive.ifeng.com/live/06OLEEWQKN4.m3u8
